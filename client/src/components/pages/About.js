@@ -5,7 +5,7 @@ const About = () => {
         <div>
             <h1>About this App</h1>
             <p className='my-1'>
-                This is a full stack React App Facebook clone 
+                This is a full stack Social Media App 
             </p>
             <p className='my-1'>
                 Created by Dustin McElroy 
