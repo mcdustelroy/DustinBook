@@ -46,7 +46,7 @@ const Navbar = () => {
 	return (
 		<div className="navbar bg-dark">
 			<h1>
-				<i className='fas fa-id-card-alt' /> Facebook
+				<i className='fas fa-id-card-alt' /> DustinBook
 			</h1>
 
 			{isAuthenticated && 
